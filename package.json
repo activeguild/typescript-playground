@@ -17,9 +17,13 @@
   },
   "homepage": "https://github.com/activeguild/typescript-playground#readme",
   "devDependencies": {
+    "@types/classnames": "^2.3.1",
     "better-typescript-lib": "^2.0.0-beta",
     "esbuild-register": "^3.0.0",
     "nodemon": "^2.0.13",
     "typescript": "^4.5.0-beta"
+  },
+  "dependencies": {
+    "classnames": "^2.3.1"
   }
 }
